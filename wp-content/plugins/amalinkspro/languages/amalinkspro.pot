@@ -1,0 +1,1330 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: AmaLinks Pro\n"
+"POT-Creation-Date: 2019-01-08 16:13-0800\n"
+"PO-Revision-Date: 2019-01-06 11:53-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: amalinkspro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: includes/advanced-custom-fields-pro\n"
+"X-Poedit-SearchPathExcluded-2: includes/amalinkspro-fontello\n"
+"X-Poedit-SearchPathExcluded-3: includes/amalinkspro-fontello-5\n"
+"X-Poedit-SearchPathExcluded-4: includes/amalinkspro-fontello-6\n"
+"X-Poedit-SearchPathExcluded-5: includes/amalinkspro-fontello-7\n"
+"X-Poedit-SearchPathExcluded-6: includes/amalinkspro-fontello-8\n"
+"X-Poedit-SearchPathExcluded-7: includes/images\n"
+"X-Poedit-SearchPathExcluded-8: includes/Iris-master\n"
+"X-Poedit-SearchPathExcluded-9: includes/select2-4.0.6-rc.1\n"
+
+#: admin/class-amalinkspro-admin.php:250 admin/class-amalinkspro-admin.php:262
+msgid "Tools"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:267
+msgid "System Information"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:276
+msgid ""
+"A copy of this information is required when submitting a support request. "
+"Click in the box, copy and paste it when creating a support ticket."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:585
+msgid "Download System Info"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:594
+msgid "Misc. Settings"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:611
+msgid "Hide the User Reviews in Showcases & Tables"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:613
+msgid "Check this box to hide the user reviews."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:615
+msgid ""
+"A note about Amazon star ratings. Amazon only provides a full webpage that "
+"includes the star ratings and user reviews, and currently does not allow "
+"only star ratings in the API."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:616 admin/class-amalinkspro-admin.php:656
+msgid "Saving your setting"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:631
+msgid "Debugging Helpers"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:635
+msgid ""
+"These are developer tools for helping us figure out why something goes wrong "
+"when it does."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:650
+msgid "Enable JavaScript Debugging"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:652
+msgid ""
+"Check this box to enable JavaScript debugging help in the browser console."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:654
+msgid ""
+"Tip: If contacting technical support, you can enable this first to help "
+"speed up the process."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:699
+msgid "Your option has been saved."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:702 admin/class-amalinkspro-admin.php:715
+msgid "There was an error saving your option"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:705
+msgid "You are trying to save the same setting value"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:712
+msgid "Your option has been saved"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:758
+msgid ""
+"Improve your earnings with our learning center. We're always adding up-to-"
+"date information to keep you in the know, and keep your account from being "
+"banned."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:802 admin/class-amalinkspro-admin.php:803
+#: admin/class-amalinkspro-admin.php:820
+msgid "Settings"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:824
+msgid "Amazon API"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:851
+msgid ""
+"You will only have to set up your Amazon Product Advertising API credentials "
+"once. For complete instructions on how to sign up for and obtain your API "
+"credentials, please view our"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:851
+msgid "Amazon Product Advertising API Tutorial"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:857
+msgid "Amazon API Access Key"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:876
+msgid "Amazon API Secret Key"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:895
+msgid "Default Amazon Search Locale"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:898
+msgid ""
+"Please set your default search locale using the option below. When you use "
+"Product Review Pro, the links you create will default to this location so if "
+"most of your visitors come from the United States for example, you would set "
+"your default locale to United States."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:907 admin/class-amalinkspro-admin.php:935
+msgid "United States"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:908
+msgid "United Kingdom"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:909 admin/class-amalinkspro-admin.php:1031
+msgid "Australia"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:910 admin/class-amalinkspro-admin.php:1079
+msgid "Brazil"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:911 admin/class-amalinkspro-admin.php:1127
+msgid "Canada"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:912 admin/class-amalinkspro-admin.php:1175
+msgid "China"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:913 admin/class-amalinkspro-admin.php:1223
+msgid "France"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:914 admin/class-amalinkspro-admin.php:1271
+msgid "Germany"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:915 admin/class-amalinkspro-admin.php:1319
+msgid "India"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:916 admin/class-amalinkspro-admin.php:1367
+msgid "Italy"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:917 admin/class-amalinkspro-admin.php:1415
+msgid "Japan"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:918 admin/class-amalinkspro-admin.php:1463
+msgid "Mexico"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:919 admin/class-amalinkspro-admin.php:1511
+msgid "Spain"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:932 admin/class-amalinkspro-admin.php:980
+#: admin/class-amalinkspro-admin.php:1028
+#: admin/class-amalinkspro-admin.php:1076
+#: admin/class-amalinkspro-admin.php:1124
+#: admin/class-amalinkspro-admin.php:1172
+#: admin/class-amalinkspro-admin.php:1220
+#: admin/class-amalinkspro-admin.php:1268
+#: admin/class-amalinkspro-admin.php:1316
+#: admin/class-amalinkspro-admin.php:1364
+#: admin/class-amalinkspro-admin.php:1412
+#: admin/class-amalinkspro-admin.php:1460
+#: admin/class-amalinkspro-admin.php:1508
+msgid "Amazon Associate Tracking IDs"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:935 admin/class-amalinkspro-admin.php:983
+#: admin/class-amalinkspro-admin.php:1031
+#: admin/class-amalinkspro-admin.php:1079
+#: admin/class-amalinkspro-admin.php:1127
+#: admin/class-amalinkspro-admin.php:1175
+#: admin/class-amalinkspro-admin.php:1223
+#: admin/class-amalinkspro-admin.php:1271
+#: admin/class-amalinkspro-admin.php:1319
+#: admin/class-amalinkspro-admin.php:1367
+#: admin/class-amalinkspro-admin.php:1415
+#: admin/class-amalinkspro-admin.php:1463
+#: admin/class-amalinkspro-admin.php:1511
+msgid "More than one tracking ID can be added in AmaLinks Pro."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:935 admin/class-amalinkspro-admin.php:983
+#: admin/class-amalinkspro-admin.php:1031
+#: admin/class-amalinkspro-admin.php:1079
+#: admin/class-amalinkspro-admin.php:1127
+#: admin/class-amalinkspro-admin.php:1175
+#: admin/class-amalinkspro-admin.php:1223
+#: admin/class-amalinkspro-admin.php:1271
+#: admin/class-amalinkspro-admin.php:1319
+#: admin/class-amalinkspro-admin.php:1367
+#: admin/class-amalinkspro-admin.php:1415
+#: admin/class-amalinkspro-admin.php:1463
+#: admin/class-amalinkspro-admin.php:1511
+msgid ""
+"The first Tracking ID must be your main ID, the one used for the Product "
+"Advertising API.</span> This can be very helpful if you want to use "
+"different IDs in different locations for tracking purposes. This is not used "
+"for link localization, for localization click the \"Localization\" tab."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:955 admin/class-amalinkspro-admin.php:1003
+#: admin/class-amalinkspro-admin.php:1051
+#: admin/class-amalinkspro-admin.php:1099
+#: admin/class-amalinkspro-admin.php:1147
+#: admin/class-amalinkspro-admin.php:1195
+#: admin/class-amalinkspro-admin.php:1243
+#: admin/class-amalinkspro-admin.php:1291
+#: admin/class-amalinkspro-admin.php:1339
+#: admin/class-amalinkspro-admin.php:1387
+#: admin/class-amalinkspro-admin.php:1435
+#: admin/class-amalinkspro-admin.php:1483
+#: admin/class-amalinkspro-admin.php:1531
+msgid "Add Tracking ID"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:959
+msgid "Tracking ID"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:983
+msgid "United Kingdon"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1007
+#: admin/class-amalinkspro-admin.php:1055
+#: admin/class-amalinkspro-admin.php:1103
+#: admin/class-amalinkspro-admin.php:1151
+#: admin/class-amalinkspro-admin.php:1199
+#: admin/class-amalinkspro-admin.php:1247
+#: admin/class-amalinkspro-admin.php:1295
+#: admin/class-amalinkspro-admin.php:1343
+#: admin/class-amalinkspro-admin.php:1391
+#: admin/class-amalinkspro-admin.php:1439
+#: admin/class-amalinkspro-admin.php:1487
+#: admin/class-amalinkspro-admin.php:1535
+msgid "Associate ID"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1556
+#: admin/class-amalinkspro-admin.php:1569
+msgid "Test Amazon API Connection"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1567
+msgid ""
+"You must save your Amazon credentials with the \"Save Changes\" button at "
+"the top or bottom, before testing your connection here."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1567
+msgid ""
+"Click the button below to test your connection to the Amazon API. You must "
+"see a success message to use this plugin."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1568
+msgid ""
+"Important! If you changed any settings above, you must click the \"Save "
+"Changes\" button at the top or bottom before testing your Amazon API "
+"connection."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1576
+msgid "Global Link Settings"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1592
+#: admin/class-amalinkspro-admin.php:3263
+msgid "Open Links in a New Window"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1595
+#: admin/class-amalinkspro-admin.php:1614
+msgid "This setting can be overridden when creating links in the editor."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1603
+#: admin/class-amalinkspro-admin.php:3272
+msgid "Check this box to open all AmaLinks Pro links in a new window"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1611
+msgid "NoFollow Links"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1622
+msgid ""
+"Check this box to open add a rel=\"nofollow\" tag to all AmaLinks Pro links"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1630
+#: admin/class-amalinkspro-admin.php:3289
+msgid "Add to Cart"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1633
+#: admin/class-amalinkspro-admin.php:3298
+msgid ""
+"By enabling this feature, all AmaLinks Pro links will become Amazon \"Add to "
+"Cart\" links. When a visitor adds an item to their cart after clicking your "
+"link, you get an extra 89 day cookie set on the visitor's browser, giving "
+"you 3 extra months to get the commission."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1641
+msgid ""
+"I want AmalInks Pro to have my links add a product to a visitor's Amazon cart"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1649
+msgid "Localization"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1665
+msgid "Link Localization Code"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1668
+msgid "Insert your"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1668
+msgid "Amazon OneLink"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1668
+msgid "OR your"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1668
+msgid "Genius Link"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1668
+msgid "code here. You cannot use both at the same time."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1677
+msgid ""
+"Paste your localization code here, then hit the \"Save Changes\" button at "
+"the top or bottom of the page."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1696
+msgid "Note"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1696
+msgid ""
+"If you already have your Amazon OneLink or Genius Link code inserted "
+"elsewhere on your site and it is working - you do not need to enter it again "
+"here. All new links created by AmaLinks Pro will convert with your existing "
+"code."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1696
+msgid ""
+"To learn more about the differences between Amazon OneLink and Genius Link - "
+"please read our full post about it here"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1704
+msgid "Styles"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1723
+msgid ""
+"In order to use Google Fonts with AmaLinks Pro, you must get a free API key "
+"and save it here. To obtain your Google Fonts API Key, visit"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1723
+msgid "this page"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1723
+msgid ""
+"You must be signed in to Google to get your API key. Once you get it from "
+"Google, paste it here and save your options."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1763
+msgid "Welcome to"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1767
+#: admin/class-amalinkspro-admin.php:1783
+msgid "Get Started"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1800
+msgid "FAQ"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1816
+#: admin/class-amalinkspro-admin.php:2060
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1827
+msgid "Please visit our most up to date FAQ at"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1833
+msgid "FAQs"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1850
+#: admin/class-amalinkspro-admin.php:1866
+msgid "Support"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1926
+msgid "Never - it's Lifetime!"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1942
+#: admin/class-amalinkspro-admin.php:1947
+#: admin/class-amalinkspro-admin.php:1954
+msgid "Your"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1942
+msgid "license is Active"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1943
+msgid "your license renews automatically on"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1943
+msgid ""
+"Your current links will not stop working if your license expires, but you "
+"will not be able to create new Amazon links using AmaLinks Pro."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1947
+msgid "license is Deactivated"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1948
+msgid "your license renews on "
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1948
+msgid ""
+"Your current links will not stop working if your license expires, but you "
+"will not be able to create new Amazon links using AmaLinks Pro"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1954
+msgid "license has Expired!"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1955
+msgid "Your license expired on"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1955
+#: admin/class-amalinkspro-admin.php:1960
+msgid "Please log into"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1955
+#: admin/class-amalinkspro-admin.php:1960
+#: admin/class-amalinkspro-admin.php:1965
+msgid "My Account"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1955
+msgid ""
+"and renew your license to continue using AmaLinks Pro. Your current links "
+"will not stop working."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1959
+msgid "The"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1959
+msgid "license Entered is Not Valid"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1960
+msgid "to retrieve your license key for AmaLinkd Pro."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1964
+msgid "STEP 1: "
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1964
+msgid "Activate your AmaLinks Pro License!"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1965
+msgid ""
+"You must enter and activate your license key provided upon purchase to use "
+"this plugin. You can find your AmaLinks Pro software license in your email "
+"receipt, or by logging into"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:1970
+msgid "* This is not where you put your Amazon API Keys"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2020
+msgid "Deactivate"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2026
+msgid "Activate"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2030
+msgid "Clear"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2075
+msgid "Help & Support"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2077
+msgid "To view the AmaLinks Pro documentation, please visit"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2078
+msgid "For support, please visit "
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2079
+msgid "is developed and maintained by"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2079
+msgid "and"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2083
+msgid "Join our Family of Successful Affiliates"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2085
+msgid "Learn why AmaLinks Pro was"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2085
+msgid "Built for Us"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2133
+#: admin/class-amalinkspro-admin.php:2156
+#: admin/class-amalinkspro-admin.php:2197
+#: admin/class-amalinkspro-admin.php:2219
+msgid "Sorry, there has been a connection error."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2361
+msgid ""
+"There was a problem connecting to the AmaLinks Pro API. Please try again in "
+"a few minutes. Thus is usually due to slower internet connections."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2421
+msgid "Insert Amazon Affiliate Links"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2421
+#: admin/class-amalinkspro-admin.php:2476
+msgid "AmaLinks Pro - The Best Amazon Associate WordPress Plugin"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2451
+msgid "Overwrite Current CTA Button Settings?"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2452
+msgid ""
+"The current button styles will be permanently written over. Are you sure?"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2458
+msgid "Choose your Showcase Image"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2459
+msgid "Select"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2461
+msgid "choices go here."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2467
+msgid "Your CTA Button Has Been Saved!"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2468
+msgid "You can use this button, or continue editing."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2491
+msgid "Hey"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2491
+msgid "Here's Your Button!"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2494
+#: admin/class-amalinkspro-admin.php:2495
+msgid "Update the current Button"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2494
+#: admin/class-amalinkspro-admin.php:2496
+msgid "Save New"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2495
+msgid "Update"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2496
+msgid "Save as a New Button"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2506
+msgid "Search Amazon and Choose your Product"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2506
+#: admin/class-amalinkspro-admin.php:3102
+msgid "Step 1"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2507
+msgid "Choose your Link Type and Configure your Link Options"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2507
+msgid "Step 2"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2508
+msgid ""
+"Review your Final Amazon Link, Adjust Additional Settings, and Insert your "
+"Amazon Affiliate Link"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2508
+msgid "Step 3"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2529
+msgid "Customize Text"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2529
+#: admin/class-amalinkspro-admin.php:2753
+#: admin/class-amalinkspro-admin.php:2890
+#: admin/class-amalinkspro-admin.php:2968
+msgid "Hover State"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2536
+#: admin/class-amalinkspro-admin.php:2760
+#: admin/class-amalinkspro-admin.php:2897
+#: admin/class-amalinkspro-admin.php:2975
+msgid "Edit Hover State"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2559
+msgid "Font Family"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2597
+msgid "Google Fonts"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2608
+msgid "Enable Google Fonts"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2609
+msgid ""
+"To use Google Fonts in your CTA Buttons, you must have a Google Fonts API "
+"key."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2609
+#: admin/class-amalinkspro-admin.php:3102
+msgid "Click Here"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2609
+msgid ""
+"and view the \"Styles\" tab for instructions on setting up your API key. You "
+"must refresh this page after saving your API key to use Google Fonts."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2623
+msgid "Font Color"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2636
+msgid "Text Shadow"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2637
+msgid "Check to Enable Text Shadow"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2644
+msgid "Text Shadow Color"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2653
+#: admin/class-amalinkspro-admin.php:2803
+msgid "X Axis Offset"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2657
+#: admin/class-amalinkspro-admin.php:2807
+msgid "Y Axis Offset"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2661
+#: admin/class-amalinkspro-admin.php:2811
+msgid "Blur"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2671
+msgid "Hover Styles"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2685
+msgid "Font Size (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2691
+msgid "Font Color (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2711
+msgid "Text Shadow Color (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2720
+#: admin/class-amalinkspro-admin.php:2859
+msgid "X Axis Offset (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2724
+#: admin/class-amalinkspro-admin.php:2863
+msgid "Y Axis Offset (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2728
+#: admin/class-amalinkspro-admin.php:2867
+msgid "Blur (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2753
+msgid "Customize Box"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2766
+msgid "Padding Top"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2770
+msgid "Padding Right"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2774
+msgid "Padding Bottom"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2778
+msgid "Padding Left"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2786
+msgid "Box Shadow"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2787
+msgid "Check to Enable Box Shadow"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2794
+msgid "Box Shadow Color"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2823
+msgid "Padding Top (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2827
+msgid "Padding Right (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2831
+msgid "Padding Bottom (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2835
+msgid "Padding Left (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2850
+msgid "Box Shadow Color (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2890
+msgid "Customize Border"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2903
+msgid "Border Radius"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2910
+msgid "Border Width"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2917
+msgid "Border Color"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2928
+msgid "Border Radius (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2935
+msgid "Border-Width (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2942
+msgid "Border-Color (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2968
+msgid "Customize Background"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2981
+msgid "Background Type"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2983
+#: admin/class-amalinkspro-admin.php:3010
+msgid "Solid"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2986
+#: admin/class-amalinkspro-admin.php:3010
+msgid "Gradient"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2991
+msgid "Solid / Bottom Color"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:2998
+msgid "Top Color"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3009
+msgid "Background Type (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3015
+msgid "Solid / Bottom Color (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3022
+msgid "Top Color (Hover)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3062
+msgid "Find Products by Keyword or ASIN"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3066
+msgid "Search"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3076
+msgid "Your Amazon Search Results"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3079
+#: admin/class-amalinkspro-admin.php:3089
+msgid "Page"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3102
+msgid "Getting Started"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3102
+msgid ""
+"You must activate your license on this website to create Amazon affiliate "
+"links AmaLinks Pro. If your license is expired, your current links will not "
+"stop working."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3102
+msgid ""
+"to enter your Amalinks Pro software license that you received in your email "
+"receipt upon purchase. You may also find this license key by logging in to "
+"your account at"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3102
+msgid "and clicking the \"Licenses\" tab"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3156
+msgid "Are you happy with your AmaLink Configuration?"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3157
+msgid "Go to Step 3"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3173
+#: admin/class-amalinkspro-admin.php:3308
+msgid "Insert Shortcode"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3174
+#: admin/class-amalinkspro-admin.php:3309
+msgid "Insert Link"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3184
+msgid "Showcase Settings"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3186
+msgid "Here are a few extra showcase settings."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3189
+msgid "Link All Images"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3190
+msgid "Check this box to link all product images to your affiliate link."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3194
+msgid "Stack Images into a Single Column"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3195
+msgid ""
+"Check this box to stack all of the product images into a single column. "
+"(Good if you only have a few images)"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3203
+msgid "Text Link Settings"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3205
+msgid "Here are a few extra text link settings."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3208
+msgid "Wrap in Paragraph"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3209
+msgid ""
+"Because of how the WordPress Editor works, you must check this box to have "
+"your link on it's own line."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3210
+msgid "Check this box to wrap a paragraph tag around your affiliate link."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3217
+msgid "Alignment Settings"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3219
+msgid ""
+"Here are a few extra alignment settings for the CTA buttons and the "
+"SHowcases."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3222
+msgid "Choose Alignment"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3223
+msgid ""
+"Because of how the WordPress Editor works, sometimes the CTA buttons and "
+"showcases may not align how you want them automatically. You can control it "
+"here."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3224
+msgid "Check this box to Align Left."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3225
+msgid "Check this box to Align Center."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3226
+msgid "heck this box to Align Right."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3227
+msgid "Check this box to disable this custom alignment."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3233
+msgid "Link Settings"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3235
+msgid ""
+"Your Global Link Settings have been automatically loaded. You can override "
+"them here. Your final link will be built using these options."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3241
+msgid "Choose Your Affiliate ID"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3248
+msgid "Your chosen Locale is"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3248
+msgid ""
+"You have associated these Amazon Associate Tracking IDs with this locale."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3285
+msgid ""
+"Check this box to open add a re=\"nofollow\" tag to all AmaLinks Pro links"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3299
+msgid ""
+"I want AmaLinks Pro to have my links add a product to a visitor's Amazon cart"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3419
+msgid "or"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3419
+msgid "Choose a Premade Button</h3>"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3636
+msgid "You have not entered your Amazon API Access Key"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3640
+msgid "You have not entered your Amazon API Secret Key"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3644
+msgid "You have not entered your Amazon Tracking ID"
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3757
+msgid "There was a problem retreiving the data from Amazon."
+msgstr ""
+
+#: admin/class-amalinkspro-admin.php:3825
+msgid "view"
+msgstr ""
+
+#: admin/partials/AMALINKSPRO_Plugin_Updater.php:189
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: admin/partials/AMALINKSPRO_Plugin_Updater.php:197
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: admin/partials/AMALINKSPRO_Plugin_Updater.php:340
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: admin/partials/AMALINKSPRO_Plugin_Updater.php:340
+#: public/class-amalinkspro-public.php:794
+msgid "Error"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:61
+msgid "Lowest New Price"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:62
+msgid "Lowest Used Price"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:63
+msgid "List Price"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:64
+msgid "Best Offer"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:65
+msgid "Save"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:69
+msgid "ASIN"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:70
+msgid "Brand"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:71
+msgid "Model"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:72
+msgid "UPC"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:73
+msgid "Warranty"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:90
+msgid "Choose Link Type"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:91
+msgid "Text Link"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:92
+msgid "Image Link"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:93
+msgid "CTA Link"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:94
+msgid "Showcase"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:110
+msgid "Final Text Link Preview"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:117
+msgid "Edit your Link Text"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:146
+msgid "Final Image Link Preview"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:164
+msgid "These are the available images on Amazon for this item"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:196
+msgid "Final CTA Link Preview"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:214
+msgid "Choose your Button Type"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:218
+msgid "Amazon Compliant Image Button"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:219
+msgid "Custom Call to Action Button"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:222
+msgid ""
+"Choose one of your current buttons, or click the red button to create or "
+"edit a button."
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:224
+msgid "Choose one of of the Amazon Associate Approved Graphic Buttons."
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:230
+msgid "Edit Your CTA Button Text"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:234
+msgid "Create a New CTA Button"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:303
+msgid "Final Showcase Preview"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:306
+msgid "Product Showcase"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:336
+msgid "View on Amazon"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:346
+#: public/class-amalinkspro-public.php:730
+msgid "Prices/Images/Reviews pulled from the Amazon Product Advertising API on"
+msgstr ""
+
+#: admin/partials/amalinkspro-modal.php:348
+#: public/class-amalinkspro-public.php:732
+msgid ""
+"Product prices and availability are accurate as of the date/time indicated "
+"and are subject to change. Any price and availability information displayed "
+"on the respective Amazon site that you are redirected to at the time of "
+"purchase will apply to the purchase of this product."
+msgstr ""
+
+#: public/class-amalinkspro-public.php:751
+msgid ""
+"Sorry, there was an error building this shortcode. No proper showcase id "
+"found."
+msgstr ""
+
+#: public/class-amalinkspro-public.php:760
+msgid "Error: Unknown Link Type"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+msgid "AmaLinks Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://amalinkspro.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Build Different Types of Amazing Amazon Associate Links Fast & Easy."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://amalinkspro.com/"
+msgstr ""

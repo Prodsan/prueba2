@@ -1,0 +1,30 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+
+.wp-block-amalinkspro-legacy-insert-imagelink-html {
+
+	a {
+		text-decoration: none;
+		color: transparent;
+		display: inline-block;
+
+		&:hover {
+			text-decoration: none;
+		}
+
+	}
+
+	&.aligncenter {
+		text-align: center;
+	}
+
+	&.alignright {
+
+	}
+}
+
+

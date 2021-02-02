@@ -1,0 +1,104 @@
+Version 1.3.4
+
+- Added global font styles for CTA buttons in the tables
+
+
+Version 1.3.3
+
+- Performance Update - changed check_license transient to be stored for 7 days
+
+
+version 1.3.2
+
+- Fixed the "no prime" logo alignment
+- Fixed bug with add to cart not working in tables
+- Full rebuild of he table builder API search results and product choosing experience
+- Added sales rank data to table builder API search results
+- Make "top product" banner on table rows non-clickable
+- New global site setting for default CTA button color in tables
+- Added table builder to main admin options in left menu
+- Misc small usability improvements & CSS tweaks
+- Top product stars - now click again to unselect
+- Fixed broken plus icons for Android
+- Fixed bug with table headings sometimes not being editable
+
+
+Version 1.3.1
+
+- Added a loading circle on the image choices popup
+- Made all table styles hidden unless [enable table styles] box is checked
+- Added javascript tool to disable the Advanced Table Features (sorting, filtering, pagination)
+- Fixed a bug with "Top" displayiong in the wrong rows
+- Fixed small CSS bugs with the final table display
+
+
+Version 1.3.0
+
+- Added non-api Table Builder
+- Fixed misc small discrepencies with the table data in the admin versus the front end
+- Table rows now save the product's affiliate api link in the table data
+- Chosen products now clear when searching again
+- Removed deprecated table data type styles no longer found in the API 5 data
+
+
+Version 1.2.7
+
+- Updated table builder to use the product links generated from the API
+- Added better no-price & no-prime icons
+- Misc small improvements
+
+
+Version 1.2.6
+
+- Fixed List Price column to show Offer Price form PA-API5
+- Fixed List Price column to show Offer Price from PA-API5
+- Fixed bug with prices & images mnot displaying if not logged in
+
+
+Version 1.2.5
+
+- Converted the Product Advertising API too use Product Advertising PA-API5. As of this update you need to have valid Amazon PA-API5 keys to use this plugin
+- Deprecated old showcases 1, 2 & 3, they are not compatible with the new api.
+
+
+Version 1.2.4
+
+- Fixed issue with plugin activation and sites using www.
+
+
+Version 1.2.3
+
+- Removed Amazon Prime logo from the admin and the tables, and added a new text based compliant Prime tag
+- Updated plugin updater script to latest from EDD
+- Added new auto-showcase shortcode
+
+
+Version 1.2.2
+
+- Added featurted product row support
+- Added editable CTA button text
+- Fixed bug with default CTA button setting field being hidden
+- Misc small optimizations
+
+
+version 1.2.1
+
+- Fixed bug with Default table button text field being hidden
+
+
+Version 1.2.0
+
+- Misc. Admin cleanup & UI improvements
+- Improved search results information & UI
+- Fixed plugin updater, sorry - if you are running version 1.1.0, you must manually update your plugin. Visit the website documentation for a tutorial.
+
+
+Version 1.1.0
+
+- Fixed "no prime logo" text in table if listing has no offers
+- Fixed bug with Table Builder search locale when searching for products to add  to your table
+
+
+Version 1.0
+
+- Beta Release

@@ -1,0 +1,24 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+
+
+.wp-block-amalinkspro-legacy-insert-textlink-html {
+	
+
+	&.alignright {
+		max-width: 50%;
+	}
+
+	&.alignleft {
+		max-width: 50%;
+	}
+
+	&.aligncenter {
+		text-align: center;
+	}
+
+}

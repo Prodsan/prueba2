@@ -1,0 +1,216 @@
+Version 1.5.7
+
+- Fixed showcase image size bug with default image.
+- Added a note that Amazon OneLink is discontinued and no longer supported by Amazon or AmaLinks Pro
+- Added a button under Tools to clear AmaLinks Pro Licence transient
+- Fixed bug with default showcase button text not working.
+
+
+Version 1.5.6
+
+- Added new global showcase button styles: font size, font style & padding
+- Fixed bug with prime tag not displaying for auto-showcases
+- Fixed bug with default CTA button text in showcases not always populating
+- Fixed a couple misc small CSS bugs
+
+
+Version 1.5.5
+
+- Performance Update - changed check_license transient to be stored for 7 days
+
+
+Version 1.5.4
+
+- Fixed the "no prime" logo alignment
+- Fixed bug with add to cart not working on API showcases
+- Added note in tools that disabling the advanced table features, also disables the responsiveness.
+- New global site setting for default CTA button color in showcases
+- Misc small usability improvements & CSS tweaks
+- Fixed small UX bug with CTA link builder
+
+
+Version 1.5.3
+
+- Add/delete bullet Points in the showcase editor
+- Added a default button text setting for the CTA Button link type
+- Bug fix: now API test is deactivated when in non-api mode
+- Fixed bug with too much space under showcases
+- Fixed a few other small Showcase CSS display bugs
+- Added "SalesRank in Category" column to search results to help decide what products to choose
+- Switched "Chosen Product" preview to display more useful information
+- Misc small optimizations & improvements
+
+
+Version 1.5.2
+
+- Fixed bug with non-api showcase sitedtripe image not tracking as a GA event
+- Security Update: Switched AmaLinks Pro license fields & Amazon Secret Key to password type
+- Fixed bug with non-api searxch results not using the correct locale
+- Fixed bug with new image and text link shortcodes not using the chosen tracking ID
+- Fixed bug with endless spinning when no Amazon search results are found
+- Misc UI improvements & typos
+
+
+Version 1.5.1
+
+- Fixed bug with new product link in block editor not working
+
+
+Version 1.5.0
+
+- Added non-api CTA buttons for classic editor
+- Added global override settings for hiding price in showcases
+- Added global override settings for hiding image in showcases
+- Added global override settings for hiding prime in showcases
+- Added UX improvement live preview of showcase width
+- Fixed multiple small bugs with the Gutenberg screen switching bewtween blocks
+- Added the primary image back into the image choices
+- Multiple non-api image & showcase improvements
+
+
+Version 1.4.9
+
+- Updated how AmaLinks Pro creates affiliate links to use the proper URL returned by the API call.
+- Fix bug where API showcases do not load if noapi showcase is present
+- Fiuxed bug with non-api showcases text link not working
+- Added the API product primary image as first choice in the hidden image chooser
+- Misc small bug fixes and improvements
+
+
+Version 1.4.8
+
+- Fixed Gutenberg bug with choose product button
+- Added non-api basic settings, image & showcase insertion features for the classic editor & gutenberg
+- Fixed invalid content bug with all text & image links in Gutenberg. It was caused by WordPress adding rel="noopener noreferrer" to external links, causing the blocks to validate.
+- Fixed Gutenberg "Choose Item" bug where nothing happened, introduced in a recent update.
+- Updated dependencies check in paapi5 to solve third party conflicts
+- Fixed some odd display/interface behaviors when switching between blocks in the block editor
+
+
+Version 1.4.7
+
+- Fixed GuzzleHttp\choose_handler() error
+- Decreased API calls in Dashboard to one per product search
+- If product search API call errors, we now retry again after 1 second automatically
+
+
+Version 1.4.6
+
+- Fixed old API call in tools page causing errors
+- Fixed a few small bugs in the showcases admin
+- Improved image loading on auto-showcases
+- Optimized showcase frontend API calls to be in batches of ten, one API call per second as per the Amazon PA-API5 rate limits
+- Fixed duplicate settings being added to the CTA & Showcase builders
+
+
+Version 1.4.5
+
+- Fixed bug with showcases displaying the lowest new price instead of the sale offer price
+- Switched over the Amazon API to PAAPI5 as required by Amazon by october 31, 2019
+- Decreased API calls when building showcases for faster loading
+- Removed deprecated code
+
+
+Version 1.4.4
+
+- Added error message about bad API credentials in product search
+- Improved troubleshooting messages in Tools - System Information
+- Added Google Analytics Auto Event Tracking
+- Fixed issue with plugin activation and sites using www.
+
+
+Version 1.4.3
+
+- Removed Amazon Prime logo from the admin and the showcases, and added a new text based compliant Prime tag
+- Updated plugin updater script to latest from EDD
+- Changed custom icon font name to eliminate theme/plugin conflicts
+
+
+Version 1.4.2
+
+- Added new icons to AmaLinks Pro custom font for Table Builder
+
+
+Version 1.4.1
+
+- Various Showcase CSS display updates
+- Text links now use highlighted text if something in the editor is highlighted
+- Fixed alignment issues with the CTA buttons
+- Fixed alignment issues with showcases
+- Added default table button text field in settings
+
+
+Version 1.4.0
+
+- Added Tablebuilder Integration
+- Fixed misc showcase bugs in the front end presentation
+- Fixed showcase from crashing when item is not listed on Amazon anymore
+- Maybe fixed showcase info bubble to be displatyed within the showcase to solve display issues
+- Removed link to rss.php in AmaLinks Pro dashboard widget
+- Fixed URL issue for Amazon locales other than the US
+- Fixed Add-to-cart locale for other countries than the US
+
+
+Version 1.3.4
+
+- Fixed never ending loading spinner on admin and user side of showcases when ther e is missing data
+- Added vivibility toggle for the CTA button in the showcases
+- Fixed bugs with javascript errors when there was missing data or book data
+- Added support for products with only one feature instead of a list
+- Fixed alignment issue with image links
+- Added image choices for image links when ther eis only one image in the API to choose from
+- Added width setting and fixed alignment issues with the showcase
+
+
+Version 1.3.3
+
+- Fixed small bugs with Showcase & improved the editing experience
+- Added visibility toggles for prime logo, image, reviews, & price
+- Added client-side date * date popup discalimer to showcases to comply with the Amazon Affiliate Terms
+- Added missing closing div to hidden admin media window
+- Added 100% Translation Ready Support. We recommend using the Loco Translate Plugin to translate what you need. Interested in providing a transcript in your native language for us to include for the benefit of other users? Contact us.
+
+
+Version 1.3.2
+
+- Fixed a few small javascript conflicts with other plugins
+
+
+Version 1.3.1
+
+- Added loading circle & overlay to showcases
+- Hid Amazon stars display, wasn't working
+- Added theme css override stules to showcase for increased compatability
+- Added Amazon User Reviews slide-down to showcases
+- Fixed small CSS bugs in showcase &Btweaked the layout
+
+
+Version 1.3
+
+- Gutenberg Intergation 1.0 Added legacy Gutenberg Blocks for text links, image links, CTA buttons, and product showcases. Most of these will be replaced by newer blocks utilizing more advanced Gutenberg functionality as the new editor is improved. Support for these blocks will last until the same date WordPress deprecates the old default editor. New Gutenberg blocks will be added as we develop them
+- Started adding javascript debugging system for easier troubleshooting
+- Created new ajax options saving function for future custom settings eventually. Testing & laying the groundwork now
+- Added new premium showcase layout based off popular requested features
+- Hid old legacy showcases 1-3, only leaving the most popular one. Current shortcodes with old showcases will continue to work but can no longer be inserted
+- Fixed a bug with Amazon product search pagination current page state
+- Fixed small css bugs with the CTA buttons, & across the Admin interface
+- Added hit "enter" to exit editable product inputs & titles
+- Fixed bug with new tab and nofollow in the CTA button
+
+
+Version 1.2
+
+- Fixed PHP warning for file_get_contents
+- Fixed Google Fonts on CTA Button issue
+- Added note about using Geni.us Link Service
+
+Version 1.1
+
+- Fixed bug with short php tags
+- Fixed bug with CTA button "Update" not working
+- Fixed bug with CTA button background type
+
+
+Version 1.0
+
+- Official Release

@@ -1,0 +1,180 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery colResizable Basic Demos</title>  
+
+  <link rel="stylesheet" type="text/css" href="css/main.css" />  
+  <style>
+  body { background-color:#f7f7f7; font-family:'Open Sans';}
+      .scroll{
+          overflow:scroll;
+          max-width:100%;
+          position:relative;
+      }
+
+      
+  </style>
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+  <script  src="../../colResizable-1.6.js"></script>
+  <script type="text/javascript">
+	$(function(){	
+
+	
+		$("#normal").colResizable({
+			liveDrag:true, 
+			gripInnerHtml:"<div class='grip'></div>", 
+			draggingClass:"dragging", 
+            resizeMode:'fit'
+        });
+        
+        $("#flex").colResizable({
+            liveDrag:true, 
+            gripInnerHtml:"<div class='grip'></div>", 
+            draggingClass:"dragging", 
+            resizeMode:'flex'
+        });
+
+
+      $("#overflow").colResizable({
+          liveDrag:true, 
+          gripInnerHtml:"<div class='grip'></div>", 
+          draggingClass:"dragging", 
+          resizeMode:'overflow'
+      });
+        
+
+      $("#disabled").colResizable({
+          liveDrag:true, 
+          gripInnerHtml:"<div class='grip'></div>", 
+          draggingClass:"dragging", 
+          resizeMode:'overflow',
+          disabledColumns: [2]
+      });
+
+        
+    });	
+  </script>
+  
+</head>
+<body>
+	<div class="center" >
+	<h1>jQuery colResizable Basic Demos</h1>
+    <div class="jquery-script-ads" style="margin:30px auto"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2783044520727903";
+/* jQuery_demo */
+google_ad_slot = "2780937993";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+        <h3>Try to resize your browser to understand what is going on in this sample</h3>
+        <br/>
+    
+        <p><strong>resizeMode: 'fit'</strong> table width adapts to the container width. Columns resize using their neighbour's width</p>
+		 <table id="normal" width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tr>
+				<th>header</th><th>header</th><th>header</th>
+			</tr>
+			<tr>
+				<td class="left">cell</td><td>cell</td><td class="right">cell</td>
+			</tr>
+			<tr>
+				<td class="left">cell</td><td>cell</td><td class="right">cell</td>
+			</tr>
+            <tr>
+				<td class="left">cell</td><td>cell</td><td class="right">cell</td>
+			</tr>
+            <tr>
+				<td class="left">cell</td><td>cell</td><td class="right">cell</td>
+			</tr>
+            <tr>
+				<td class="left">cell</td><td>cell</td><td class="right">cell</td>
+			</tr>
+            <tr>
+				<td class="left">cell</td><td>cell</td><td class="right">cell</td>
+			</tr>
+			<tr>
+				<td class="left bottom">cell</td><td class="bottom">cell</td><td class="bottom right">cell</td>
+			</tr>																	
+		</table>
+
+        
+        <p><strong>resizeMode: 'flex'</strong> columns are sized independently unless there is not enought space in the container</p>
+        <table id="flex" width="50%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <th>header</th><th>header</th><th>header</th>
+            </tr>
+            <tr>
+                <td class="left">cell</td><td>cell</td><td class="right">cell</td>
+            </tr>
+            <tr>
+                <td class="left">cell</td><td>cell</td><td class="right">cell</td>
+            </tr>
+            <tr>
+                <td class="left bottom">cell</td><td class="bottom">cell</td><td class="bottom right">cell</td>
+            </tr>																	
+        </table>
+ 
+        
+        <p><strong>resizeMode: 'overflow'</strong> columns are sized independently. Table width can exceed its container </p>
+        <div class="scroll">
+            <table id="overflow" width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <th>header</th><th>header</th><th>header</th>
+                </tr>
+                <tr>
+                    <td class="left">cell</td><td>cell</td><td class="right">cell</td>
+                </tr>
+                <tr>
+                    <td class="left">cell</td><td>cell</td><td class="right">cell</td>
+                </tr>
+                <tr>
+                    <td class="left bottom">cell</td><td class="bottom">cell</td><td class="bottom right">cell</td>
+                </tr>																	
+            </table>
+        </div>
+        
+        <p><strong>disabled columns:</strong> it can be specified whether some columns will not have resizing grip</p>
+        <table id="disabled" width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <th>header</th><th>header</th><th class="disabled">disabled</th>
+            </tr>
+            <tr>
+                <td class="left">cell</td><td>cell</td><td class="right disabled">disabled</td>
+            </tr>
+            <tr>
+                <td class="left">cell</td><td>cell</td><td class="right disabled">disabled</td>
+            </tr>
+            <tr>
+                <td class="left bottom">cell</td><td class="bottom">cell</td><td class="bottom right disabled">disabled</td>
+            </tr>																	
+        </table>
+		<br/>
+
+
+	</div>	
+		
+
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+		
+ </body>
+ </html>
