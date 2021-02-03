@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>prodsan &#8211; Prueba2</title>
+	<atom:link href="https://prodsan.github.io/prueba2/author/prodsan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prodsan.github.io/prueba2</link>
+	<description>Otro sitio realizado con WordPress</description>
+	<lastBuildDate>Tue, 02 Feb 2021 23:10:32 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>¡Hola, mundo!</title>
+		<link>https://prodsan.github.io/prueba2/2021/02/02/hola-mundo/</link>
+					<comments>https://prodsan.github.io/prueba2/2021/02/02/hola-mundo/#comments</comments>
+		
+		<dc:creator><![CDATA[prodsan]]></dc:creator>
+		<pubDate>Tue, 02 Feb 2021 19:35:50 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">https://prodsan.github.io/prueba2/?p=1</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div>[amalinkspro type=»showcase» asin=»» apilink=»https://amzn.to/3cxuoPe» associate-id=»undefined» new-window=»1&#8243; addtocart=»0&#8243; nofollow=»1&#8243; sc-id=»4&#8243; imgs=»%3Ciframe%20style%3D%22width%3A120px%3Bheight%3A240px%3B%22%20marginwidth%3D%220%22%20marginheight%3D%220%22%20scrolling%3D%22no%22%20frameborder%3D%220%22%20src%3D%22%2F%2Frcm-eu.amazon-adsystem.com%2Fe%2Fcm%3Flt1%3D_blank%26bc1%3D000000%26IS2%3D1%26bg1%3DFFFFFF%26fc1%3D000000%26lc1%3D0000FF%26t%3Dpablorodrig02-21%26language%3Des_ES%26o%3D30%26p%3D8%26l%3Das4%26m%3Damazon%26f%3Difr%26ref%3Das_ss_li_til%26asins%3DB0819MZBFW%26linkId%3D019102049c547b788181c1a5bd128cd6%22%3E%3C%2Fiframe%3E» link-imgs=»false» stack-imgs=»false» specs=»①【Pantalla FHD + 4G LTE de 5.93 pulgadas】~~~②【4GB + 32GB + Dual Sim Daul standby】~~~③【4000mAh Bateria grande + Android 9.0 OS】 ~~~④【Cámara dual de 16MP + 8MP】 ~~~⑤ 【Desbloqueo facial + huella digital】~~~~~~» btn-color=»#ff9900&#8243; btn-text=»Ir a Amazon» alignment=»alignnone» hide-prime=»0&#8243; hide-image=»0&#8243; hide-reviews=»0&#8243; hide-price=»0&#8243;]HAFURY Note 10 4G Android 9 Dual Sim Smartphone Libre Desbloqueado, Pantalla 5.93 Inch FHD con batería de 4000Mah, 4GB RAM+32GB ROM, Ampliable hasta 128 GB, teléfono móvil Doble cámara 8MP+16MP,Negro [/amalinkspro]</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prodsan.github.io/prueba2/2021/02/02/hola-mundo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
